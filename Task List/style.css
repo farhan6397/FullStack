@@ -1,0 +1,87 @@
+body{
+    background-color: black;
+    font-family: sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+.input-section{
+   margin-top: 30px;
+   display: flex;
+   justify-content: center;
+}
+#note{
+    color:white;
+    text-align: center;
+    width: 600px;
+    margin: 10px 30px; 
+    height: 30px; 
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+#addButton{
+    width: 150px; 
+    margin: 10px 30px; 
+    height: 30px;
+    color: white; 
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.container{
+    margin: 0 auto;
+    border: 2px solid white;
+    height: 600px;
+    width: 80%;
+    border-radius: 20px;
+}
+.head{
+    margin: 100px;
+    display: flex;
+    justify-content: center;
+}
+.child1{
+    padding: 4px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+.child2{
+    padding: 4px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+.sn{
+    color: white;
+    background-color: black;
+    padding-top: 10px;
+    text-align: center;
+    height: 30px;
+    width: 70px;
+    border: 1px solid white;
+    margin: 0px 10px;
+    border-radius: 5px;
+}
+.sn2{
+    color: white;
+    background-color: black;
+    padding-top: 10px;
+    text-align: center;
+    height: 30px;
+    width: 70px;
+    border: 1px solid white;
+    margin: 0px 10px;
+    border-radius: 5px;
+}
+.item{
+    padding-top: 10px;
+    text-align: center;
+    height: 30px;
+    width: 700px;
+    border: 1px solid white;
+    margin: 0px 10px;
+    border-radius: 5px;
+}
